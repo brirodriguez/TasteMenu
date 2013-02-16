@@ -1,0 +1,4 @@
+TasteMenu
+=========
+
+Sample apps
